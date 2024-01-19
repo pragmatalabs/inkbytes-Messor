@@ -7,6 +7,8 @@
     .ipynb_checkpoints,
     *.ipynb,
     .log,
-    .env,
+    .env
+    .idea/,
+    DS_Store
 
 
