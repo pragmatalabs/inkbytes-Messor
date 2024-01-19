@@ -1,0 +1,8 @@
+Articles==0.1.0
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+pydantic==1.10.12
+pytz==2023.3
+Requests==2.31.0
+Rest==0.1
+tinydb==4.8.0

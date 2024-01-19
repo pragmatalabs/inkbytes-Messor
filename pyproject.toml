@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "inkbytes messor"
+version = "0.1.0"
+description = "Inkbytes main scrapping/harvest module. Stand Alone=Yes"
+authors = ["Julian De La Rosa <julian.delarosa.suncar@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
