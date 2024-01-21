@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45eb6b7a-174a-4b5e-ac68-ac7ec9a47e8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Common/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/Tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Models/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Models/dist/inkbytes_models-0.1.0-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Models/dist/inkbytes_models-0.1.0.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Settings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Settings/_install/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/.idea/Common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/.idea/Common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/CsvJsonHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/Tools/CsvJsonHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/Logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/Tools/Logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/ModelObjectHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/Tools/ModelObjectHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/Rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/Tools/Rest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/TextProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/Tools/TextProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Common/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Common/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapping/NewsScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapping/Scrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/.idea/Models.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/.idea/Models.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/Articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/NewsPapers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/NewsPapers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/SysDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/SysDictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Settings/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Settings/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Models" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UBB2Swn0Sw1MdW2YF3HWmmlcnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__main__.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/juliandelarosa/Projects/InkBytes/Messor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Settings" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../Common" />
+      <recent name="$PROJECT_DIR$/Scraper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Common/Common" />
+      <recent name="$PROJECT_DIR$/Scrapping" />
+      <recent name="$PROJECT_DIR$/../" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Messor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Messor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45eb6b7a-174a-4b5e-ac68-ac7ec9a47e8b" name="Changes" comment="" />
+      <created>1692402885302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692402885302</updated>
+      <workItem from="1692402887076" duration="635000" />
+      <workItem from="1692405072289" duration="15069000" />
+      <workItem from="1692421218133" duration="7173000" />
+      <workItem from="1692498023092" duration="18727000" />
+      <workItem from="1692551453725" duration="6023000" />
+      <workItem from="1692622913713" duration="1776000" />
+      <workItem from="1693237368277" duration="1898000" />
+      <workItem from="1694439511019" duration="2476000" />
+      <workItem from="1694608222521" duration="178000" />
+      <workItem from="1694618508310" duration="653000" />
+      <workItem from="1694986645848" duration="1224000" />
+      <workItem from="1695806892716" duration="596000" />
+      <workItem from="1698498502550" duration="1088000" />
+      <workItem from="1702047308373" duration="91000" />
+      <workItem from="1702047416550" duration="63000" />
+      <workItem from="1703731888175" duration="6571000" />
+      <workItem from="1703738529182" duration="905000" />
+      <workItem from="1703741332659" duration="283000" />
+      <workItem from="1703741631161" duration="89000" />
+      <workItem from="1703741729297" duration="81000" />
+      <workItem from="1703741869366" duration="43000" />
+      <workItem from="1703741921897" duration="93000" />
+      <workItem from="1703742024697" duration="68000" />
+      <workItem from="1703742102817" duration="37000" />
+      <workItem from="1703742150670" duration="172000" />
+      <workItem from="1703742331599" duration="150000" />
+      <workItem from="1703742493066" duration="144000" />
+      <workItem from="1703742693918" duration="31000" />
+      <workItem from="1703742734484" duration="262000" />
+      <workItem from="1703743155359" duration="244000" />
+      <workItem from="1703743417978" duration="78000" />
+      <workItem from="1703743503428" duration="187000" />
+      <workItem from="1703743698272" duration="181000" />
+      <workItem from="1703743891392" duration="109000" />
+      <workItem from="1703744008029" duration="35000" />
+      <workItem from="1703744050012" duration="96000" />
+      <workItem from="1703744158257" duration="24000" />
+      <workItem from="1703744189906" duration="111000" />
+      <workItem from="1703744527137" duration="24000" />
+      <workItem from="1703744560931" duration="23000" />
+      <workItem from="1703744603446" duration="8810000" />
+      <workItem from="1704252177264" duration="725000" />
+      <workItem from="1704252910629" duration="8380000" />
+      <workItem from="1704302243107" duration="10419000" />
+      <workItem from="1704416145522" duration="10008000" />
+      <workItem from="1705114624884" duration="333000" />
+      <workItem from="1705115228271" duration="62000" />
+      <workItem from="1705115304173" duration="37000" />
+      <workItem from="1705116453227" duration="1179000" />
+      <workItem from="1705158462036" duration="38387000" />
+      <workItem from="1705443959751" duration="4231000" />
+      <workItem from="1705456876951" duration="155000" />
+      <workItem from="1705623114143" duration="848000" />
+      <workItem from="1705627253795" duration="5482000" />
+      <workItem from="1705713330600" duration="1370000" />
+      <workItem from="1705714728310" duration="290000" />
+      <workItem from="1705715032238" duration="241000" />
+      <workItem from="1705715299831" duration="1797000" />
+      <workItem from="1705717106999" duration="1216000" />
+      <workItem from="1705718335151" duration="7369000" />
+      <workItem from="1705802274849" duration="4640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="python:google-cloud-storage" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="python:pyspark" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/__main___py$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1705642264211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Messor$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1705806854519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

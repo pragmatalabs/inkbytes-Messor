@@ -11,18 +11,22 @@ License: MIT License
 """
 import argparse
 import concurrent
-import json
 import sys
 from datetime import datetime
 from typing import List
 import pytz
 import requests
-import Logger
+
+
+from Articles import ArticleCollection
 import SysDictionary
 from Outlets import OutletsSource, OutletsHandler
-from Rest import RestClient
-from NewsScraper import ScrapperPool
-from Articles import ArticleCollection
+from Tools.Rest import RestClient
+from Scrapping.NewsScraper import ScrapperPool
+from Tools import Logger
+
+
+"inkbytes-settings-package"
 
 logger = Logger.get_logger(__name__)
 

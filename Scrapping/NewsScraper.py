@@ -15,11 +15,11 @@ from tinydb import Query
 import time
 import calendar
 
-from Common.Models.NewsPapers import NewsPaper
-from Common.Models.Outlets import OutletsSource
-from Common.Tools import Logger
+from NewsPapers import NewsPaper
+from Outlets import OutletsSource
+from Tools import Logger
 import SysDictionary
-from Common.Models.Articles import Article, ArticleBuilder, ArticleCollection
+from Articles import Article, ArticleBuilder, ArticleCollection
 from DataHandler import DataHandler
 
 from Scrapping.Scrapper import ScrapingSession, ScrapingStats
