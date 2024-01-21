@@ -17,7 +17,7 @@ import calendar
 
 from NewsPapers import NewsPaper
 from Outlets import OutletsSource
-from Tools import Logger
+import Logger
 import SysDictionary
 from Articles import Article, ArticleBuilder, ArticleCollection
 from DataHandler import DataHandler

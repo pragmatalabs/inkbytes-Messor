@@ -21,9 +21,9 @@ import requests
 from Articles import ArticleCollection
 import SysDictionary
 from Outlets import OutletsSource, OutletsHandler
-from Tools.Rest import RestClient
+from Rest import RestClient
 from Scrapping.NewsScraper import ScrapperPool
-from Tools import Logger
+import Logger
 
 
 "inkbytes-settings-package"
