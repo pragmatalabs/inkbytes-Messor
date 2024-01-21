@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 from typing import Optional
 from pydantic import BaseModel, Field
-from Articles import ArticleCollection
+from Common.Models.Articles import ArticleCollection
 
 
 class DateTimeEncoder(json.JSONEncoder):

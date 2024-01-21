@@ -10,19 +10,20 @@ Language: Python 3.10
 License: MIT License
 """
 import concurrent
-import newspaper
 from bs4 import BeautifulSoup
 from tinydb import Query
 import time
 import calendar
-import Logger
-import SysDictionary
-from Articles import Article, ArticleBuilder, ArticleCollection
-from DataHandler import DataHandler
-from NewsPapers import NewsPaper
-from Outlets import OutletsSource
-from Scrapper import ScrapingSession, ScrapingStats
 
+from Common.Models.NewsPapers import NewsPaper
+from Common.Models.Outlets import OutletsSource
+from Common.Tools import Logger
+import SysDictionary
+from Common.Models.Articles import Article, ArticleBuilder, ArticleCollection
+from DataHandler import DataHandler
+
+from Scrapping.Scrapper import ScrapingSession, ScrapingStats
+import newspaper
 MODULE_NAME = "InkPills Scraper Downloader"
 __name__ = MODULE_NAME
 logger = Logger.get_logger(MODULE_NAME)
